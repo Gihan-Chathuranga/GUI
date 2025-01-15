@@ -554,6 +554,8 @@ footer .footer_main{
     grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
 }
 
+
+
 footer .footer_main .footer_tag{
     text-align: center;
 }
@@ -562,6 +564,7 @@ footer .footer_main .footer_tag h2{
     color: #000;
     margin-bottom: 25px;
     font-size: 30px;
+    font-weight: 100;
 }
 
 footer .footer_main .footer_tag p{
