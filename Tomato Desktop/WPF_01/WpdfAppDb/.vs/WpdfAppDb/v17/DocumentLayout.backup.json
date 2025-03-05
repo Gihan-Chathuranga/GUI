@@ -1,0 +1,289 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\torrents\\desktop\\tomato desktop\\wpf_01\\wpdfappdb\\wpdfappdb\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\torrents\\desktop\\tomato desktop\\wpf_01\\wpdfappdb\\wpdfappdb\\userdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\userdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\torrents\\desktop\\tomato desktop\\wpf_01\\wpdfappdb\\wpdfappdb\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\torrents\\desktop\\tomato desktop\\wpf_01\\wpdfappdb\\wpdfappdb\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\torrents\\desktop\\tomato desktop\\wpf_01\\wpdfappdb\\wpdfappdb\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\torrents\\desktop\\tomato desktop\\wpf_01\\wpdfappdb\\wpdfappdb\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\torrents\\desktop\\tomato desktop\\wpf_01\\wpdfappdb\\wpdfappdb\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\torrents\\desktop\\tomato desktop\\wpf_01\\wpdfappdb\\wpdfappdb\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\torrents\\desktop\\tomato desktop\\wpf_01\\wpdfappdb\\wpdfappdb\\categories.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\categories.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\torrents\\desktop\\tomato desktop\\wpf_01\\wpdfappdb\\wpdfappdb\\categories.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\categories.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\torrents\\desktop\\tomato desktop\\wpf_01\\wpdfappdb\\wpdfappdb\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\torrents\\desktop\\tomato desktop\\wpf_01\\wpdfappdb\\wpdfappdb\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\torrents\\desktop\\tomato desktop\\wpf_01\\wpdfappdb\\wpdfappdb\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\productwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\torrents\\desktop\\tomato desktop\\wpf_01\\wpdfappdb\\wpdfappdb\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\productwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\torrents\\desktop\\tomato desktop\\wpf_01\\wpdfappdb\\wpdfappdb\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\torrents\\desktop\\tomato desktop\\wpf_01\\wpdfappdb\\wpdfappdb\\migrations\\20250102042229_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\migrations\\20250102042229_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|c:\\users\\torrents\\desktop\\tomato desktop\\wpf_01\\wpdfappdb\\wpdfappdb\\migrations\\20250102042506_product_app.db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64A4BD2D-70B3-4CB1-BF76-715D94B33A98}|WpdfAppDb\\WpdfAppDb.csproj|solutionrelative:wpdfappdb\\migrations\\20250102042506_product_app.db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\ProductDbContext.cs",
+              "RelativeToolTip": "WpdfAppDb\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:07:35.271Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\LoginPage.xaml.cs",
+              "RelativeToolTip": "WpdfAppDb\\LoginPage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:13:44.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WpdfAppDb\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\MainWindow.xaml",
+              "RelativeToolTip": "WpdfAppDb\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-02T03:09:54.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\UserDataContext.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\UserDataContext.cs",
+              "ToolTip": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\UserDataContext.cs",
+              "RelativeToolTip": "WpdfAppDb\\UserDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:09:33.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\Home.xaml",
+              "RelativeDocumentMoniker": "WpdfAppDb\\Home.xaml",
+              "ToolTip": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\Home.xaml",
+              "RelativeToolTip": "WpdfAppDb\\Home.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-24T07:07:37.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\App.xaml.cs",
+              "RelativeToolTip": "WpdfAppDb\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:07:09.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WpdfAppDb\\MainWindow.xaml.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:09:54.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Categories.xaml",
+              "DocumentMoniker": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\Categories.xaml",
+              "RelativeDocumentMoniker": "WpdfAppDb\\Categories.xaml",
+              "ToolTip": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\Categories.xaml",
+              "RelativeToolTip": "WpdfAppDb\\Categories.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-24T19:41:36.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categories.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\Categories.xaml.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\Categories.xaml.cs",
+              "ToolTip": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\Categories.xaml.cs",
+              "RelativeToolTip": "WpdfAppDb\\Categories.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T19:47:59.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\Home.xaml.cs",
+              "ToolTip": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\Home.xaml.cs",
+              "RelativeToolTip": "WpdfAppDb\\Home.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T07:56:13.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "WpdfAppDb\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\LoginPage.xaml",
+              "RelativeToolTip": "WpdfAppDb\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-07T07:04:42.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\App.xaml",
+              "RelativeDocumentMoniker": "WpdfAppDb\\App.xaml",
+              "ToolTip": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\App.xaml",
+              "RelativeToolTip": "WpdfAppDb\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-07T07:16:46.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\ProductWindow.xaml",
+              "RelativeDocumentMoniker": "WpdfAppDb\\ProductWindow.xaml",
+              "ToolTip": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\ProductWindow.xaml",
+              "RelativeToolTip": "WpdfAppDb\\ProductWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-09T03:24:48.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\ProductWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\ProductWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\ProductWindow.xaml.cs",
+              "RelativeToolTip": "WpdfAppDb\\ProductWindow.xaml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwCQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T03:36:36.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\Product.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\Product.cs",
+              "ToolTip": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\Product.cs",
+              "RelativeToolTip": "WpdfAppDb\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T03:53:51.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250102042229_initial.cs",
+              "DocumentMoniker": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\Migrations\\20250102042229_initial.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\Migrations\\20250102042229_initial.cs",
+              "ToolTip": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\Migrations\\20250102042229_initial.cs",
+              "RelativeToolTip": "WpdfAppDb\\Migrations\\20250102042229_initial.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:22:30.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250102042506_product_app.db.cs",
+              "DocumentMoniker": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\Migrations\\20250102042506_product_app.db.cs",
+              "RelativeDocumentMoniker": "WpdfAppDb\\Migrations\\20250102042506_product_app.db.cs",
+              "ToolTip": "C:\\Users\\Torrents\\Desktop\\Tomato Desktop\\WPF_01\\WpdfAppDb\\WpdfAppDb\\Migrations\\20250102042506_product_app.db.cs",
+              "RelativeToolTip": "WpdfAppDb\\Migrations\\20250102042506_product_app.db.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T04:25:06.658Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

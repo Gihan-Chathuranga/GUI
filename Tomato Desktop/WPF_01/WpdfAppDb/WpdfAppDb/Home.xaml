@@ -1,0 +1,100 @@
+﻿<Window x:Class="WpdfAppDb.Home"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpdfAppDb"
+        mc:Ignorable="d"
+        Title="Home" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200"/>
+           
+            <ColumnDefinition Width="*"/>
+
+        </Grid.ColumnDefinitions>
+
+       
+        <Grid Grid.Column="0" Background="LightGray">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                
+                <RowDefinition Height="*"/>
+               
+                <RowDefinition Height="Auto"/>
+               
+            </Grid.RowDefinitions>
+
+           
+            <TextBlock Text="Tomato App Home Page" 
+                       FontSize="16" 
+                       FontWeight="Bold" 
+                       Foreground="Black" 
+                       TextAlignment="Center" 
+                       Margin="5" 
+                       Grid.Row="0"/>
+
+          
+            <StackPanel Grid.Row="1">
+                <Button Content="Product Item" Margin="5" Height="40" Click="Button_Click"/>
+                <Button Content="Categories" Margin="5" Height="40" Click="Button_Click_1"/>
+                <Button Content="Users" Margin="5" Height="40"/>
+            </StackPanel>
+
+          
+            <Button Content="Log Out" 
+                    Margin="5" Height="40" 
+                    Background="Red" Foreground="White" 
+                    Grid.Row="2"/>
+        </Grid>
+
+      
+        <ScrollViewer Grid.Column="1" VerticalScrollBarVisibility="Auto">
+            <WrapPanel Margin="10">
+
+               
+                <StackPanel Margin="10" Width="150">
+                    <Image Source="Images\image1.jpg" Width="150" Height="150"/>
+                    <TextBlock Text="Fried Rice" FontSize="14" FontWeight="Bold" TextAlignment="Center"/>
+                    <TextBlock Text="$12.99" FontSize="12" Foreground="Tomato" TextAlignment="Center"/>
+                </StackPanel>
+
+              
+                <StackPanel Margin="10" Width="150">
+                    <Image Source="Images\image2.jpg" Width="150" Height="150"/>
+                    <TextBlock Text="Sushi" FontSize="14" FontWeight="Bold" TextAlignment="Center"/>
+                    <TextBlock Text="$9.99" FontSize="12" Foreground="Tomato" TextAlignment="Center"/>
+                </StackPanel>
+
+                <!-- Food Item 3 -->
+                <StackPanel Margin="10" Width="150">
+                    <Image Source="Images\image3.jpg" Width="150" Height="150"/>
+                    <TextBlock Text="Burger" FontSize="14" FontWeight="Bold" TextAlignment="Center"/>
+                    <TextBlock Text="$10.49" FontSize="12" Foreground="Tomato" TextAlignment="Center"/>
+                </StackPanel>
+
+                
+                <StackPanel Margin="10" Width="150">
+                    <Image Source="Images\image4.jpg" Width="150" Height="150"/>
+                    <TextBlock Text="Pasta" FontSize="14" FontWeight="Bold" TextAlignment="Center"/>
+                    <TextBlock Text="$7.99" FontSize="12" Foreground="Tomato" TextAlignment="Center"/>
+                </StackPanel>
+
+              
+                <StackPanel Margin="10" Width="150">
+                    <Image Source="Images\image5.jpg" Width="150" Height="150"/>
+                    <TextBlock Text="Pizza" FontSize="14" FontWeight="Bold" TextAlignment="Center"/>
+                    <TextBlock Text="$15.99" FontSize="12" Foreground="Tomato" TextAlignment="Center"/>
+                </StackPanel>
+                <StackPanel Margin="10" Width="150">
+                    <Image Source="Images\image6.jpg" Width="150" Height="150"/>
+                    <TextBlock Text="Noodles" FontSize="14" FontWeight="Bold" TextAlignment="Center"/>
+                    <TextBlock Text="$10.99" FontSize="12" Foreground="Tomato" TextAlignment="Center"/>
+                </StackPanel>
+
+            </WrapPanel>
+        </ScrollViewer>
+
+
+    </Grid>
+</Window>
